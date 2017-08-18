@@ -3,5 +3,5 @@ This is just a code for fixing the filename of windows backup. Windows backup wi
 
 ## Usage Example
 ```sh
-go run main.go -path "D:/backup"
+go run main.go -path "testDir"
 ```
